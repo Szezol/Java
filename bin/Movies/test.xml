@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<movies><movie><title>Inception</title>
+<genre>SCI_FI</genre>
+<duration>160</duration>
+<rate>5.0</rate>
+<cast><person><firstName><person><person><person><person><person><person><person><person><person><person><person><person><person><person><person><firstName><person><person><person><person><person><person><person><person><person><person><person><person><person><person></cast></movie><movie><title>Titanic</title>
+<genre>ROMANTIC</genre>
+<duration>200</duration>
+<rate>4.8</rate>
+<cast><person><firstName><person><person><person><person><person><person><person><person><person><person><person><person><person><person><person><firstName><person><person><person><person><person><person><person><person><person><person><person><person><person><person></cast></movie><movie><title>The Matrix</title>
+<genre>SCI_FI</genre>
+<duration>140</duration>
+<rate>5.0</rate>
+<cast><person><firstName><person><person><person><person><person><person><person><person><person><person><person><person><person><person><person><firstName><person><person><person><person><person><person><person><person><person><person><person><person><person><person></cast></movie></movies>
